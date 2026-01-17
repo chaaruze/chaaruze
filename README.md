@@ -33,7 +33,5 @@ Here are some of the projects I've been working on:
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaaruze&show_icons=true&theme=tokyonight" alt="chaaruze's stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaaruze&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
-</div>
+![chaaruze's stats](https://github-readme-stats.vercel.app/api?username=chaaruze&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaaruze&layout=compact&theme=tokyonight)
