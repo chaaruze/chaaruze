@@ -6,7 +6,7 @@ I'm a developer passionate about **Web Development**, **Python**, and creating t
 
 ## 📫 Connect with Me
 
-*   <a href="https://www.facebook.com/johncharlesomagap" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://www.facebook.com/johncharlesomagap" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 
 ## 🛠️ Extensions & Projects
 
