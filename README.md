@@ -31,7 +31,3 @@ Here are some of the projects I've been working on:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
-
-![chaaruze's stats](https://github-readme-stats.vercel.app/api?username=chaaruze&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaaruze&layout=compact&theme=tokyonight)
