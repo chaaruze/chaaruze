@@ -1,33 +1,39 @@
-# Hi there 👋, I'm John Charles Omagap (chaaruze)
+# John Charles Omagap
 
-I'm a developer passionate about **Web Development**, **Python**, and creating tools to enhance user experiences, particularly for **SillyTavern**. I'm constantly learning and building cool things!
+Computer Science student at Pamantasang Lungsod ng Muntinlupa (PLMUN), based in Bacoor, Cavite. I build practical web tools and data-backed prototypes, and I am currently preparing for entry-level work in AI data evaluation, software QA, and technical support.
 
-[![](https://visitcount.itsvg.in/api?id=chaaruze&label=Profile%20Views&color=0&icon=0&pretty=true)](https://github.com/chaaruze)
+I am open to part-time remote opportunities that value careful instruction-following, written English and Tagalog, structured data work, documentation, and dependable independent work.
 
-## 📫 Connect with Me
+## Selected projects
 
-<a href="https://www.facebook.com/johncharlesomagap" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+### [Too Many Chats](https://github.com/chaaruze/SillyTavern-Too-Many-Chats) - archived personal project
 
-## 🛠️ Extensions & Projects
+An independently built, AI-assisted JavaScript extension that adds persistent per-character folders, search, sorting, pinning, and bulk chat organization to SillyTavern. I published it after encountering the same missing workflow myself; the repository has earned 15 stars and 1 fork across 59 commits. It is preserved as an archived project and is no longer actively maintained.
 
-Here are some of the projects I've been working on:
+### [STICA Clinic System](https://github.com/chaaruze/stica-clinic) - capstone prototype
 
-### 🎭 SillyTavern Extensions
-*   **[Too Many Chats](https://github.com/chaaruze/SillyTavern-Too-Many-Chats)**: An extension to organize your chats into folders, keeping your workspace clean and efficient.
-*   **[Memory Enhancement](https://github.com/chaaruze/st-memory-enhancement)**: Tools to improve and translate the memory capabilities within SillyTavern.
+Led a five-person capstone team and served as lead programmer for a PHP/SQLite clinic-management prototype. The system includes student and employee records, consultation tracking, medicine inventory, Excel import, dashboard reporting, authentication, and activity logs. It was built as an academic prototype and is not a maintained production medical system.
 
-### 🌐 Web & Applications
-*   **[Portfolio V2](https://github.com/chaaruze/portfolio-v2)**: My personal portfolio website showcasing my journey and projects.
-*   **[STICA Clinic System](https://github.com/chaaruze/stica-clinic)**: A management system for clinics.
+### [Portfolio V2](https://chaaruze.github.io/portfolio-v2/)
 
-### 📚 Learning Journey
-*   **[Learning Programming](https://github.com/chaaruze/learning-programming)**: Documenting my path to mastering Python and programming fundamentals.
+My responsive personal portfolio, built with HTML, CSS, JavaScript, and Bootstrap. It documents selected projects, current skills, and contact information.
 
-## 💻 Tech Stack
+## Skills
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+**Working knowledge:** JavaScript, HTML, CSS, Bootstrap, PHP, SQLite, Git, GitHub, responsive web design, technical documentation
 
+**Familiar with:** Python fundamentals, SQL fundamentals, React fundamentals, Microsoft Word, Google Docs, Canva, Gmail
+
+**Currently developing:** software QA, manual test cases, structured data evaluation, and entry-level technical support workflows
+
+## Current roles and education
+
+- BS Computer Science student, PLMUN - expected graduation 2028
+- Business Manager, Computer Science course student council - 2026 to present
+- Languages: Tagalog (native/professional), English (professional working proficiency), Japanese (beginner)
+
+## Contact
+
+- [Portfolio](https://chaaruze.github.io/portfolio-v2/)
+- [LinkedIn](https://www.linkedin.com/in/john-charles-omagap-670958306/)
+- [Email](mailto:0charlesomagap@gmail.com)
