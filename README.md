@@ -1,8 +1,8 @@
 # John Charles Omagap
 
-Computer Science student at Pamantasang Lungsod ng Muntinlupa (PLMUN), based in Bacoor, Cavite. I build practical web tools and data-backed prototypes, and I am currently preparing for entry-level work in AI data evaluation, software QA, and technical support.
+Third-year Computer Science student at Pamantasang Lungsod ng Muntinlupa (PLMUN), based in Bacoor, Cavite. I build practical web tools, lead academic development projects, and learn unfamiliar systems through documentation, testing, and hands-on problem solving.
 
-I am open to part-time remote opportunities that value careful instruction-following, written English and Tagalog, structured data work, documentation, and dependable independent work.
+I am open to legitimate part-time remote opportunities across technology, support, and digital operations. I can contribute careful written communication, organized information handling, dependable independent work, and a willingness to learn documented company workflows.
 
 ## Selected projects
 
@@ -24,13 +24,15 @@ My responsive personal portfolio, built with HTML, CSS, JavaScript, and Bootstra
 
 **Familiar with:** Python fundamentals, SQL fundamentals, React fundamentals, Microsoft Word, Google Docs, Canva, Gmail
 
-**Currently developing:** software QA, manual test cases, structured data evaluation, and entry-level technical support workflows
+**Currently developing:** software QA, manual test cases, structured data evaluation, non-voice support, and entry-level technical support workflows
 
 ## Current roles and education
 
 - BS Computer Science student, PLMUN - expected graduation 2028
 - Business Manager, Computer Science course student council - 2026 to present
-- Languages: Tagalog (native/professional), English (professional working proficiency), Japanese (beginner)
+- English: [EF SET English Certificate](https://cert.efset.org/en/ox3wuJ) - 66/100, CEFR C1 Advanced (August 2025)
+- Languages: Tagalog (professional proficiency), English (CEFR C1 Advanced), Japanese (beginner)
+- Typing speed: 80+ WPM average
 
 ## Contact
 
