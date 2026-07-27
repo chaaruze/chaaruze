@@ -1,41 +1,27 @@
 # John Charles Omagap
 
-Third-year Computer Science student at Pamantasang Lungsod ng Muntinlupa (PLMUN), based in Bacoor, Cavite. I build practical web tools, lead academic development projects, and learn unfamiliar systems through documentation, testing, and hands-on problem solving.
+Third-year BS Computer Science student at Pamantasang Lungsod ng Muntinlupa. I build practical web and automation projects, document decisions and limitations, and learn through testing and iteration.
 
-I am open to legitimate part-time remote opportunities across technology, support, and digital operations. I can contribute careful written communication, organized information handling, dependable independent work, and a willingness to learn documented company workflows.
+My long-term goal is a career in cybersecurity. I am currently strengthening foundations in software, systems, networking, and secure development; I do not yet claim professional security experience.
 
-## Selected projects
+## Selected work
 
-### [Too Many Chats](https://github.com/chaaruze/SillyTavern-Too-Many-Chats) - archived personal project
+- **[Portfolio](https://chaaruze.github.io/portfolio-v2/)** — selected projects, sanitized case studies, and verified credentials.
+- **[STICA Clinic System](https://github.com/chaaruze/stica-clinic)** — a five-person academic capstone prototype that I led. It is in maintenance-only status and is not production-ready.
+- **[Too Many Chats](https://github.com/chaaruze/SillyTavern-Too-Many-Chats)** — an archived, AI-assisted JavaScript extension for organizing SillyTavern chats into folders.
 
-An independently built, AI-assisted JavaScript extension that adds persistent per-character folders, search, sorting, pinning, and bulk chat organization to SillyTavern. I published it after encountering the same missing workflow myself; the repository has earned 15 stars and 1 fork across 59 commits. It is preserved as an archived project and is no longer actively maintained.
+## Current foundation
 
-### [STICA Clinic System](https://github.com/chaaruze/stica-clinic) - capstone prototype
+**Used in projects:** HTML, CSS, JavaScript, PHP, SQLite, Git/GitHub, workflow automation, technical troubleshooting, and documentation.
 
-Led a five-person capstone team and served as lead programmer for a PHP/SQLite clinic-management prototype. The system includes student and employee records, consultation tracking, medicine inventory, Excel import, dashboard reporting, authentication, and activity logs. It was built as an academic prototype and is not a maintained production medical system.
+**Currently developing:** networking, operating systems, secure development, and cybersecurity fundamentals.
 
-### [Portfolio V2](https://chaaruze.github.io/portfolio-v2/)
+## Background
 
-My responsive personal portfolio, built with HTML, CSS, JavaScript, and Bootstrap. It documents selected projects, current skills, and contact information.
+- Third-year BS Computer Science student; expected graduation in 2028
+- Business Manager, Computer Science Course Student Council
+- Native Tagalog; [EF SET-certified C1 Advanced English](https://cert.efset.org/en/ox3wuJ)
 
-## Skills
+## Links
 
-**Working knowledge:** JavaScript, HTML, CSS, Bootstrap, PHP, SQLite, Git, GitHub, responsive web design, technical documentation
-
-**Familiar with:** Python fundamentals, SQL fundamentals, React fundamentals, Microsoft Word, Google Docs, Canva, Gmail
-
-**Currently developing:** software QA, manual test cases, structured data evaluation, non-voice support, and entry-level technical support workflows
-
-## Current roles and education
-
-- BS Computer Science student, PLMUN - expected graduation 2028
-- Business Manager, Computer Science course student council - 2026 to present
-- English: [EF SET English Certificate](https://cert.efset.org/en/ox3wuJ) - 66/100, CEFR C1 Advanced (August 2025)
-- Languages: Tagalog (professional proficiency), English (CEFR C1 Advanced), Japanese (beginner)
-- Typing speed: 80+ WPM average
-
-## Contact
-
-- [Portfolio](https://chaaruze.github.io/portfolio-v2/)
-- [LinkedIn](https://www.linkedin.com/in/john-charles-omagap-670958306/)
-- [Email](mailto:0charlesomagap@gmail.com)
+[Portfolio](https://chaaruze.github.io/portfolio-v2/) · [LinkedIn](https://www.linkedin.com/in/john-charles-omagap-670958306/) · [EF SET certificate](https://cert.efset.org/en/ox3wuJ)
